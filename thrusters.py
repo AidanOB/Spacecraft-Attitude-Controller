@@ -4,6 +4,6 @@ import structure
 
 
 # Initial empty class for filling inheritance purposes
-class Thrusters(structure.Structure):
+class Thrusters():
     def __init__(self):
         pass
